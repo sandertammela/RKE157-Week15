@@ -79,4 +79,3 @@ root.mainloop()
 # Käivitab Tkinteri sündmuste tsükli
 # Programm jääb ootama kasutaja tegevusi:
 # näiteks nupule vajutamist või teksti sisestamist
-
